@@ -9,14 +9,23 @@ from Driver.chromedriver import *
 
 
 # edge
-driver = webdriver.Edge("..\Driver\edgedriver\msedgedriver.exe")
-driver.get("https://www.python.org")
+# driver = webdriver.Edge("..\Driver\edgedriver\msedgedriver.exe")
+# driver.get("https://www.python.org")
 
 
 
 
 # firefox
-# driver = webdriver.Firefox("..\D")
-# driver = webdriver.Firefox("https://www.python.org")
+# driver = webdriver.Firefox("\Driver\Firefoxdriver\geckodriver.exe")
+# driver.get("https://www.python.org")
+
+
+# driver = webdriver.Firefox("..\Driver\Firefoxdriver\geckodriver.exe")
+# driver.get("https://www.python.org")
+
+
+# driver = webdriver.Firefox(executable_path="..\Driver\Firefoxdriver\geckodriver.exe")
+# driver.get("https://www.python.org")
+
 
 
