@@ -1,0 +1,24 @@
+1649754390158	geckodriver	INFO	Listening on 127.0.0.1:52186
+1649754393222	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "52187" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\daslin\\AppData\\Local\\Temp\\rust_mozprofileIyfYqt"
+1649754393855	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\daslin\\AppData\\Local\\Temp\\rust_mozprofileIyfYqt\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:52187/devtools/browser/0840d972-c3b9-4019-b7f5-d2b04345c404
+1649754396652	Marionette	INFO	Listening on port 52207
+Read port: 52207
+1649754397030	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://media.ethicalads.io/media/client/v1.4.0/ethicalads.min.js, line 1: Error: No ad placements found.
+JavaScript error: resource:///actors/FormValidationChild.jsm, line 184: TypeError: this._element is null
+1649754404394	Marionette	INFO	Stopped listening on port 52207
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1649754913455	geckodriver	INFO	Listening on 127.0.0.1:52310
+1649754916513	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "52311" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\daslin\\AppData\\Local\\Temp\\rust_mozprofileHHJOmN"
+1649754916911	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\daslin\\AppData\\Local\\Temp\\rust_mozprofileHHJOmN\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:52311/devtools/browser/058ab540-f2e8-4340-8155-7d5fd2253e12
+1649754919925	Marionette	INFO	Listening on port 52334
+Read port: 52334
+1649754919959	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://media.ethicalads.io/media/client/v1.4.0/ethicalads.min.js, line 1: Error: No ad placements found.
+JavaScript error: resource:///actors/FormValidationChild.jsm, line 184: TypeError: this._element is null
+1649754925020	Marionette	INFO	Stopped listening on port 52334
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
